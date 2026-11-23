@@ -1,0 +1,114 @@
+[
+  {
+    "id": "education",
+    "name": "Education",
+    "blurb": "Schools, universities, teaching methods and access to learning. A Task 2 favourite.",
+    "section": "topic",
+    "order": 0
+  },
+  {
+    "id": "work",
+    "name": "Work & Careers",
+    "blurb": "Jobs, promotion, working conditions and the changing workplace.",
+    "section": "topic",
+    "order": 1
+  },
+  {
+    "id": "economy",
+    "name": "Business & Economy",
+    "blurb": "Markets, trade, consumers and money. Also essential for describing trends in Task 1.",
+    "section": "topic",
+    "order": 2
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "blurb": "AI, the internet, social media, privacy and the digital divide.",
+    "section": "topic",
+    "order": 3
+  },
+  {
+    "id": "environment",
+    "name": "Environment",
+    "blurb": "Climate change, pollution, wildlife and sustainability.",
+    "section": "topic",
+    "order": 4
+  },
+  {
+    "id": "health",
+    "name": "Health & Fitness",
+    "blurb": "Diet, exercise, stress, healthcare systems and lifestyle.",
+    "section": "topic",
+    "order": 5
+  },
+  {
+    "id": "crime",
+    "name": "Crime & Law",
+    "blurb": "Punishment, prisons, policing and why people commit crime.",
+    "section": "topic",
+    "order": 6
+  },
+  {
+    "id": "family",
+    "name": "Family & Relationships",
+    "blurb": "Parenting, friendship, generations and social life. Very common in Speaking Part 1 and 2.",
+    "section": "topic",
+    "order": 7
+  },
+  {
+    "id": "travel",
+    "name": "Travel & Tourism",
+    "blurb": "Holidays, tourism's impact and adventure. Ideal for Speaking Part 2 'describe a trip'.",
+    "section": "topic",
+    "order": 8
+  },
+  {
+    "id": "cities",
+    "name": "Cities & Housing",
+    "blurb": "Urbanisation, transport, housing costs and city versus countryside.",
+    "section": "topic",
+    "order": 9
+  },
+  {
+    "id": "media",
+    "name": "Media & Advertising",
+    "blurb": "News, social media, advertising and freedom of the press.",
+    "section": "topic",
+    "order": 10
+  },
+  {
+    "id": "culture",
+    "name": "Globalisation & Culture",
+    "blurb": "Cultural identity, migration, languages and global trade.",
+    "section": "topic",
+    "order": 11
+  },
+  {
+    "id": "government",
+    "name": "Government & Society",
+    "blurb": "Public spending, inequality, policy and social problems.",
+    "section": "topic",
+    "order": 12
+  },
+  {
+    "id": "science",
+    "name": "Science & Research",
+    "blurb": "Research, ethics, space exploration and scientific progress.",
+    "section": "topic",
+    "order": 13
+  },
+  {
+    "id": "arts",
+    "name": "Arts, Sport & Leisure",
+    "blurb": "Hobbies, the arts, sport and free time. A frequent Speaking Part 1 and 2 theme.",
+    "section": "topic",
+    "order": 14
+  },
+  {
+    "id": "toolkit",
+    "name": "Essay & Opinion Toolkit",
+    "blurb": "Cross-topic language for giving opinions, discussing problems and communicating ideas. Works in any Task 2 essay.",
+    "section": "cross-topic",
+    "order": 15
+  }
+]

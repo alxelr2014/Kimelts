@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IELTS Topic Lexicon</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:ital,opsz,wght@1,6..72,400;1,6..72,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <div class="brand"><h1>IELTS Topic Lexicon</h1><span>Vocabulary, collocations &amp; idioms by exam topic, built on your Collocations in Use guide</span></div>
+    <label class="search" for="q">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Search all topics…" autocomplete="off" aria-label="Search all topics">
+    </label>
+    <div class="modes" role="group" aria-label="Mode">
+      <button id="m-study" data-mode="study" aria-pressed="true">Study</button>
+      <button id="m-cards" data-mode="cards" aria-pressed="false">Flashcards</button>
+      <button id="m-quiz" data-mode="quiz" aria-pressed="false">Quiz</button>
+    </div>
+  </div>
+</header>
+<div class="shell">
+  <aside class="rail" id="rail" aria-label="Topics"></aside>
+  <main id="main"></main>
+</div>
+
+<script src="js/db.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
