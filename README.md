@@ -4,18 +4,17 @@ Vocabulary, collocations and idioms by IELTS topic, with Study, Flashcards and Q
 
 ## Run it
 
-The page loads its words from JSON files, and browsers block that when a page is opened straight from disk. Serve the folder instead:
+The page loads its words from JSON files, and browsers block that when a page is opened straight from disk. Serve the folder instead, from the project root:
 
-```
-cd ielts-lexicon
+```sh
 python -m http.server 8000
 ```
 
-Then open http://localhost:8000. You can link straight to a topic, e.g. `http://localhost:8000/#health`, `#guide` or `#all`.
+Then open <http://localhost:8000>. You can link straight to a topic, e.g. `http://localhost:8000/#health`, `#guide` or `#all`.
 
 ## Files
 
-```
+```text
 index.html          page structure
 css/styles.css      styles (light and dark themes)
 js/db.js            LexiconDB: loads and queries the data
